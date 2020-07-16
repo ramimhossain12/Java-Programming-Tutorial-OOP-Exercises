@@ -1,5 +1,5 @@
 # Java-Tutarial
-* Java OOPs concepts - In this guide, we will discuss features of Object Oriented Programming System(OOPs) and how they are used in java with examples.
+* JavaÂ OOP concepts - In this guide, we will discuss features ofÂ Object Oriented ProgrammingÂ System(OOPs) and how they are used inÂ javaÂ with examples.
 
 # Java OOP Exercises Link :
 
